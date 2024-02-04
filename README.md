@@ -1,1 +1,1 @@
-![snake animation](https://github.com/<seu RaquelCollado>/<seu RaquelCollado>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/<seuRaquelCollado>/<seuRaquelCollado>/blob/output/github-contribution-grid-snake2.svg)
